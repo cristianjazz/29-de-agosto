@@ -1,0 +1,107 @@
+*{margin: 0px;}
+.caja1
+{
+    background-color: blue;
+    margin: 80px;
+    padding: 20px;
+    width: 900px;
+    height: 900px;
+    border-radius: 1000px;
+}
+.caja2
+{
+    background-color: red;
+    margin-top: 80px;
+    margin-left: 200px;
+    padding: 20px;
+    border-radius: 100px;
+    width: 20px; height: 20px;
+}
+.caja3
+{
+    background-color: yellow;
+    margin-left: 210px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja4
+{
+    background-color: green;
+    margin-left: 220px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja5
+{
+    background-color: orangered;
+    margin-left: 230px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja6
+{
+    background-color: grey;
+    margin-left: 240px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja7
+{
+    background-color: white;
+    margin-left: 250px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja8
+{
+    background-color: red;
+    margin-left: 550px;
+    padding: 20px;
+    border-radius: 100px;
+    width: 20px; height: 20px;
+}
+.caja9
+{
+    background-color: yellow;
+    margin-left: 560px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja10
+{
+    background-color: green;
+    margin-left: 570px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja11
+{
+    background-color: orangered;
+    margin-left: 580px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja12
+{
+    background-color: grey;
+    margin-left: 590px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
+.caja13
+{
+    background-color: white;
+    margin-left: 600px;
+    padding: 20px;
+    border-radius: 70px;
+    width: 20px; height: 20px;
+}
